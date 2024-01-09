@@ -1,0 +1,18 @@
+C:\Users\CASTI\source\repos\PuntoVenta\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\CASTI\source\repos\PuntoVenta\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\CASTI\source\repos\PuntoVenta\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\CASTI\source\repos\PuntoVenta\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\CASTI\source\repos\PuntoVenta\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\CASTI\source\repos\PuntoVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\CASTI\source\repos\PuntoVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\CASTI\source\repos\PuntoVenta\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\CASTI\source\repos\PuntoVenta\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaDatos\obj\Debug\CapaDatos.pdb

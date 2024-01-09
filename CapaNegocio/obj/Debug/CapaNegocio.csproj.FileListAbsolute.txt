@@ -1,0 +1,22 @@
+C:\Users\CASTI\source\repos\PuntoVenta\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\CASTI\source\repos\PuntoVenta\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\CASTI\source\repos\PuntoVenta\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\CASTI\source\repos\PuntoVenta\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\CASTI\source\repos\PuntoVenta\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\CASTI\source\repos\PuntoVenta\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\CASTI\source\repos\PuntoVenta\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\CASTI\source\repos\PuntoVenta\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\CASTI\source\repos\PuntoVenta\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\CASTI\source\repos\PuntoVenta\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\CASTI\source\repos\PuntoVenta\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaNegocio\obj\Debug\CapaNegocio.pdb

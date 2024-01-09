@@ -1,0 +1,75 @@
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.MenuInicial.resources
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProductos.resources
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdClientes.resources
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Movimientos.MVClientes.resources
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Movimientos.MVUsuarios.resources
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Movimientos.MVVentasUsuarios.resources
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Movimientos.MVComprasUsuarios.resources
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmInventario.resources
+C:\Users\CASTI\source\repos\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCategoria.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmClientes.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmCompras.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleCompra.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmDetalleVenta.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmInventario.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProductos.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmProveedores.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmReportes.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmUsuarios.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.frmVentas.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Login.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.MenuInicial.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdClientes.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProducto.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Modales.mdProveedor.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Movimientos.MVClientes.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Movimientos.MVComprasUsuarios.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Movimientos.MVUsuarios.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Movimientos.MVVentasUsuarios.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

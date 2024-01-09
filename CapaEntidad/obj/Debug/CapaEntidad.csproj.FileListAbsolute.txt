@@ -1,0 +1,12 @@
+C:\Users\CASTI\source\repos\PuntoVenta\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\CASTI\source\repos\PuntoVenta\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\CASTI\source\repos\PuntoVenta\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
+C:\Users\CASTI\source\repos\PuntoVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\CASTI\source\repos\PuntoVenta\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\CASTI\source\repos\PuntoVenta\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\CASTI\OneDrive - Universidad Autonoma de Nuevo León\Escuela\6to Semestre\BASDAT\PuntoVenta\CapaEntidad\obj\Debug\CapaEntidad.pdb
